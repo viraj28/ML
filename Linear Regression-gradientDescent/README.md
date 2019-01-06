@@ -1,6 +1,6 @@
 # Interactive Linear Regression
 
-#### Method : Gradient Descent.
+#### Method : Gradient Descent (Stochastic).
 
 #### Click on the canvas to create data points.
 
